@@ -37,3 +37,6 @@
 ## � 趣味数据
 
 ![代码提交日历](https://ghchart.rshah.org/xuezhaju)
+
+## 😜 我的Github主页访问人数
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xuezhaju.xuezhaju)
