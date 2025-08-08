@@ -27,7 +27,7 @@
 ## 📚 学习资源分享
 
 - [GodotHub网站(好用)](https://godothub.com/)
-- [GOdot编程入门指南](https://www.bilibili.com/video/BV14Y411h7Po/?spm_id_from=333.337.search-card.all.click)
+- [Godot编程入门指南](https://www.bilibili.com/video/BV14Y411h7Po/?spm_id_from=333.337.search-card.all.click)
 
 ## 🤝 联系我
 
