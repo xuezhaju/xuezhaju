@@ -39,4 +39,5 @@
 ![代码提交日历](https://ghchart.rshah.org/xuezhaju)
 
 ## 😜 我的Github主页访问人数
-![Visitor Count](https://profile-counter.glitch.me/xuezhaju/count.svg)
+
+- 不会做，不写了
