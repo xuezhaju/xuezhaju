@@ -3,14 +3,14 @@
 [![GitHub 粉丝](https://img.shields.io/github/followers/xuezhaju?style=social)](https://github.com/xuezhaju)
 [![B站 UP主](https://img.shields.io/badge/B站-学渣驹-FF69B4)](https://space.bilibili.com/3493127857900357)
 
-> "All in Godot~"
+> "All in Godot~ and C++" 
 > "学海无涯，渣亦有道" —— 一个不断学习的"学渣"
 
 ## 🚀 关于我
 
-- 🔭 目前在学: 从零开始学习编程
+- 🔭 目前在学: C++～
 - 🌱 正在成长: 从"学渣"到"学习爱好者"的转变(到头来还是学渣~)
-- 👯 希望合作: Godot~
+- 👯 希望合作: Godot~,一起学习C++呀～
 - 🤔 寻求帮助: 如何高效学习编程
 - 💬 问我关于: 新手学习编程的建议(我也不知道QWQ)
 - ⚡ 有趣的事实: 2025.8.7Godot破百小时~
