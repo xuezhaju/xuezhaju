@@ -1,43 +1,53 @@
-# 你好呀，我是 学渣驹 👋
+# 你好，我是 学渣驹
 
-[![GitHub 粉丝](https://img.shields.io/github/followers/xuezhaju?style=social)](https://github.com/xuezhaju)
-[![B站 UP主](https://img.shields.io/badge/B站-学渣驹-FF69B4)](https://space.bilibili.com/3493127857900357)
+C++学习者 | Godot爱好者
 
-> "All in Godot~ and C++" 
-> "学海无涯，渣亦有道" —— 一个不断学习的"学渣"
+[![GitHub](https://img.shields.io/badge/GitHub-xuezhaju-181717?logo=github)](https://github.com/xuezhaju)
+[![B站](https://img.shields.io/badge/B站-学渣驹-00A1D6?logo=bilibili)](https://space.bilibili.com/3493127857900357)
+[![邮箱](https://img.shields.io/badge/邮箱-liaozecheng123@163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
 
-## 🚀 关于我
+---
 
-- 🔭 目前在学: C++～
-- 🌱 正在成长: 从"学渣"到"学习爱好者"的转变(到头来还是学渣~)
-- 👯 希望合作: Godot~,一起学习C++呀～
-- 🤔 寻求帮助: 如何高效学习编程
-- 💬 问我关于: 新手学习编程的建议(我也不知道QWQ)
-- ⚡ 有趣的事实: 2025.8.7Godot破百小时~
+![学渣驹的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true)
 
-## 📊 学习进度
+## 📌 当前状态
 
-[![学习打卡](https://img.shields.io/badge/dynamic/json?color=blue&label=今日学习&query=%24.total&url=https%3A%2F%2Fapi.xuezhaju.com%2Fdaily)](https://github.com/xuezhaju)
-![编程时长](https://img.shields.io/badge/本周编程-你猜多久-orange)
+- **主攻方向**: C++ 语言学习
+- **辅助学习**: Godot 游戏引擎
+- **学习阶段**: 基础语法 → 项目实践
+- **学习方式**: 看书 + 写代码 + 做笔记
 
-## 📈 GitHub 数据
+## 📚 学习路径
 
-[![学渣驹的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=radical)](https://github.com/xuezhaju)
+### C++ 核心
+1. 基础语法（已完成）
+2. 指针与内存管理（进行中）
+3. STL标准库
+4. 面向对象设计
+5. 项目实战
 
-## 📚 学习资源分享
+### Godot 应用
+- GDScript 基础
+- 游戏开发流程
+- C++ 与 Godot 绑定
 
-- [GodotHub网站(好用)](https://godothub.com/)
-- [Godot编程入门指南](https://www.bilibili.com/video/BV14Y411h7Po/?spm_id_from=333.337.search-card.all.click)
+## 📊 代码统计
 
-## 🤝 联系我
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&count_private=true&hide_title=true)
 
-📧 邮箱: [liaozecheng123@163.com](mailto:liaozecheng123@163.com)  
-🐧 QQ: [3883453752](http://wpa.qq.com/msgrd?v=3&uin=3883453752&site=qq&menu=yes)  
+## 🔗 实用链接
 
-## � 趣味数据
+- [C++ Reference](https://en.cppreference.com/) - C++官方文档
+- [LearnCpp.com](https://www.learncpp.com/) - 免费C++教程
+- [Godot Docs](https://docs.godotengine.org/) - Godot文档
 
-![代码提交日历](https://ghchart.rshah.org/xuezhaju)
+## 📝 联系
 
-## 😜 我的Github主页访问人数
+- **邮箱**: liaozecheng123@163.com
+- **QQ**: 3883453752
+- **B站**: [学渣驹](https://space.bilibili.com/3493127857900357)
 
-- 不会做，不写了
+---
+
+> 学海无涯，渣亦有道  
+> 慢慢学习，持续进步
