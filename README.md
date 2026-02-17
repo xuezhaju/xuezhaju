@@ -65,24 +65,6 @@ C++ Learner | Godot Enthusiast
 
 ---
 
-
-### GPG Public Key Verification
-
-To verify my identity, you can use the following GPG public key:
-
-Email: liaozecheng123@163.com
-
-Key fingerprint: (Add your GPG key fingerprint here if you have one)
-
-You can obtain my public key in the following ways:
-
-1. From the public key server:
-   ```bash
-   gpg --keyserver keys.openpgp.org --recv-keys [YOUR-KEY-ID]
-   ```
-
-2. Directly visit [keys.openpgp.org](https://keys.openpgp.org)
-
 ### 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
