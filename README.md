@@ -1,11 +1,11 @@
 <!-- snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuezhaju//blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuezhaju/xuezhaju/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake.svg" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C+++Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C%2B%2B+Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
 ![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=great-gatsby)
 
@@ -67,6 +67,3 @@ C++ Learner | Godot Enthusiast
 
 ### 📈 Contribution Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
