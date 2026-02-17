@@ -1,53 +1,88 @@
-# 你好，我是 学渣驹
+<!-- snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xuezhaju/xuezhaju/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/xuezhaju/xuezhaju/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
-C++学习者 | Godot爱好者
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C+++Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+
+![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=great-gatsby)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=great-gatsby&langs_count=10&layout=compact)
+
+### About Me
+- 🌱 I'm currently learning **C++ and Godot Engine**
+- 💻 My Bilibili: [xuezhaju](https://space.bilibili.com/3493127857900357)
+- 📫 How to reach me: liaozecheng123@163.com
+- 🔭 My goal: **Game Development with C++**
+
+### GPG Public Key Verification
+
+To verify my identity, you can use the following GPG public key:
+
+Email: liaozecheng123@163.com
+
+Key fingerprint: (Add your GPG key fingerprint here if you have one)
+
+You can obtain my public key in the following ways:
+
+1. From the public key server:
+   ```bash
+   gpg --keyserver keys.openpgp.org --recv-keys [YOUR-KEY-ID]
+   ```
+
+2. Directly visit [keys.openpgp.org](https://keys.openpgp.org)
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 👋 I'm xuezhaju
+
+C++ Learner | Godot Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-xuezhaju-181717?logo=github)](https://github.com/xuezhaju)
-[![B站](https://img.shields.io/badge/B站-学渣驹-00A1D6?logo=bilibili)](https://space.bilibili.com/3493127857900357)
-[![邮箱](https://img.shields.io/badge/邮箱-liaozecheng123@163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-xuezhaju-00A1D6?logo=bilibili)](https://space.bilibili.com/3493127857900357)
+[![Email](https://img.shields.io/badge/Email-liaozecheng123@163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
 
----
+## 📌 Current Status
 
-![学渣驹的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true)
+- **Main Focus**: C++ Language Learning
+- **Secondary Learning**: Godot Game Engine
+- **Learning Phase**: Basic Syntax → Project Practice
+- **Learning Style**: Reading + Coding + Note-taking
 
-## 📌 当前状态
+## 📚 Learning Path
 
-- **主攻方向**: C++ 语言学习
-- **辅助学习**: Godot 游戏引擎
-- **学习阶段**: 基础语法 → 项目实践
-- **学习方式**: 看书 + 写代码 + 做笔记
+### C++ Core
+1. Basic Syntax (Completed)
+2. Pointers & Memory Management (In Progress)
+3. STL Standard Library
+4. Object-Oriented Design
+5. Project Practice
 
-## 📚 学习路径
+### Godot Applications
+- GDScript Basics
+- Game Development Process
+- C++ and Godot Integration
 
-### C++ 核心
-1. 基础语法（已完成）
-2. 指针与内存管理（进行中）
-3. STL标准库
-4. 面向对象设计
-5. 项目实战
+## 🔗 Useful Links
 
-### Godot 应用
-- GDScript 基础
-- 游戏开发流程
-- C++ 与 Godot 绑定
+- [C++ Reference](https://en.cppreference.com/) - Official C++ Documentation
+- [LearnCpp.com](https://www.learncpp.com/) - Free C++ Tutorials
+- [Godot Docs](https://docs.godotengine.org/) - Godot Documentation
 
-## 📊 代码统计
+## 📝 Contact
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&count_private=true&hide_title=true)
-
-## 🔗 实用链接
-
-- [C++ Reference](https://en.cppreference.com/) - C++官方文档
-- [LearnCpp.com](https://www.learncpp.com/) - 免费C++教程
-- [Godot Docs](https://docs.godotengine.org/) - Godot文档
-
-## 📝 联系
-
-- **邮箱**: liaozecheng123@163.com
+- **Email**: liaozecheng123@163.com
 - **QQ**: 3883453752
-- **B站**: [学渣驹](https://space.bilibili.com/3493127857900357)
+- **Bilibili**: [xuezhaju](https://space.bilibili.com/3493127857900357)
 
 ---
 
-> 学海无涯，渣亦有道  
-> 慢慢学习，持续进步
+> Learning never stops  
+> Progress step by step
+
+---
