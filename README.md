@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C%2B%2B+Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=great-gatsby)
+![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=great-gatsby&langs_count=10&layout=compact)
 
