@@ -10,8 +10,7 @@
 <!-- GitHub Stats 卡片组 -->
 <div align="center">
   <img height="170" src="https://stats.justsong.cn/api/github?username=xuezhaju&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=radical&langs_count=8&layout=compact" />
-</div>
+
 
 <!-- Streak Stats - 已修复为可用服务 -->
 <div align="center">
