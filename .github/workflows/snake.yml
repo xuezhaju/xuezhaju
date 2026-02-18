@@ -2,8 +2,8 @@ name: Generate snake animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # 每6小时运行一次
-  workflow_dispatch: # 允许手动触发
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -12,6 +12,8 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    permissions:
+      contents: write # 添加写入权限
 
     steps:
       - name: Checkout
@@ -30,5 +32,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          commit_message: "chore: update snake animation"
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # 使用内置的 token
