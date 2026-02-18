@@ -7,9 +7,23 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C%2B%2B+Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
 
-![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=radical&count_private=true)
+<!-- GitHub Stats 卡片组 -->
+<div align="center">
+  <img height="170" src="https://stats.justsong.cn/api/github?username=xuezhaju&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=radical&langs_count=8&layout=compact" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=radical&langs_count=10&layout=compact)
+<!-- Streak Stats - 已修复为可用服务 -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xuezhaju&theme=radical&hide_border=true" />
+</div>
+
+<!-- WakaTime Stats - 如果你有使用 WakaTime 的话，否则可以删除 -->
+<!-- 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xuezhaju&theme=radical&layout=compact" />
+</div>
+-->
 
 # 👋 I'm xuezhaju
 
@@ -23,7 +37,7 @@ C++ Learner | Godot Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-xuezhaju-181717?logo=github)](https://github.com/xuezhaju)
 [![Bilibili](https://img.shields.io/badge/Bilibili-xuezhaju-00A1D6?logo=bilibili)](https://space.bilibili.com/3493127857900357)
-[![Email](https://img.shields.io/badge/Email-liaozecheng123@163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
+[![Email](https://img.shields.io/badge/Email-liaozecheng123%40163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
 
 ## 📌 Current Status
 
