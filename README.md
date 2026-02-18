@@ -9,7 +9,7 @@
 
 ![xuezhaju's GitHub stats](https://github-readme-stats.vercel.app/api?username=xuezhaju&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=great-gatsby&langs_count=10&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xuezhaju&theme=radical&langs_count=10&layout=compact)
 
 # 👋 I'm xuezhaju
 
