@@ -1,42 +1,25 @@
-<!-- snake -->
+# 👋 I'm xuezhaju
+
+*C++ Learner | Godot Enthusiast | Game Development Dreamer*
+
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake-dark.svg" width="100%" />
 </picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World+!;C%2B%2B+Learner;Godot+Enthusiast&center=true&font=Lato&size=32&color=008000)](https://git.io/typing-svg)
+<br>
 
-<!-- GitHub Stats 卡片组 -->
-<div align="center">
-  <img height="170" src="https://stats.justsong.cn/api/github?username=xuezhaju&theme=radical" />
+## 👋 About Me
 
-
-<!-- Streak Stats - 已修复为可用服务 -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=xuezhaju&theme=radical&hide_border=true" />
-</div>
-
-<!-- WakaTime Stats - 如果你有使用 WakaTime 的话，否则可以删除 -->
-<!-- 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xuezhaju&theme=radical&layout=compact" />
-</div>
--->
-
-# 👋 I'm xuezhaju
-
-### About Me
 - 🌱 I'm currently learning **C++ and Godot Engine**
 - 💻 My Bilibili: [xuezhaju](https://space.bilibili.com/3493127857900357)
-- 📫 How to reach me: liaozecheng123@163.com
+- 📫 How to reach me: [liaozecheng123@163.com](mailto:liaozecheng123@163.com)
 - 🔭 My goal: **Game Development with C++**
 
-C++ Learner | Godot Enthusiast
-
-[![GitHub](https://img.shields.io/badge/GitHub-xuezhaju-181717?logo=github)](https://github.com/xuezhaju)
-[![Bilibili](https://img.shields.io/badge/Bilibili-xuezhaju-00A1D6?logo=bilibili)](https://space.bilibili.com/3493127857900357)
-[![Email](https://img.shields.io/badge/Email-liaozecheng123%40163.com-D14836?logo=gmail)](mailto:liaozecheng123@163.com)
+<br>
 
 ## 📌 Current Status
 
@@ -45,19 +28,31 @@ C++ Learner | Godot Enthusiast
 - **Learning Phase**: Basic Syntax → Project Practice
 - **Learning Style**: Reading + Coding + Note-taking
 
+<br>
+
 ## 📚 Learning Path
 
-### C++ Core
-1. Basic Syntax (Completed)
-2. Pointers & Memory Management (In Progress)
-3. STL Standard Library
-4. Object-Oriented Design
-5. Project Practice
+<details>
+<summary><strong>C++ Core</strong> (点击展开)</summary>
 
-### Godot Applications
-- GDScript Basics
-- Game Development Process
-- C++ and Godot Integration
+- ✅ Basic Syntax (Completed)
+- ⏳ Pointers & Memory Management (In Progress)
+- 📅 STL Standard Library
+- 📅 Object-Oriented Design
+- 📅 Project Practice
+
+</details>
+
+<details>
+<summary><strong>Godot Applications</strong> (点击展开)</summary>
+
+- 📅 GDScript Basics
+- 📅 Game Development Process
+- 📅 C++ and Godot Integration
+
+</details>
+
+<br>
 
 ## 🔗 Useful Links
 
@@ -65,18 +60,43 @@ C++ Learner | Godot Enthusiast
 - [LearnCpp.com](https://www.learncpp.com/) - Free C++ Tutorials
 - [Godot Docs](https://docs.godotengine.org/) - Godot Documentation
 
-## 📝 Contact
-
-- **Email**: liaozecheng123@163.com
-- **QQ**: 3883453752
-- **Bilibili**: [xuezhaju](https://space.bilibili.com/3493127857900357)
+<br>
 
 ---
 
-> Learning never stops  
-> Progress step by step
+*Learning never stops*  
+*Progress step by step*
+
+<br>
+
+## 📊 GitHub Stats
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World!;C%2B%2B+Learner;Godot+Enthusiast&font=Lato&size=22&color=008000&center=true&width=400)
+
+<br>
+
+**Social**: [GitHub](https://github.com/xuezhaju) | [Bilibili](https://space.bilibili.com/3493127857900357) | [Email](mailto:liaozecheng123@163.com) | QQ: 3883453752
+
+<br>
+
+![GitHub Stats](https://sts.stalux.top/api?username=xuezhaju&theme=blue-green)
+
+<br>
+
+![Top Languages](https://sts.stalux.top/api/top-langs/?username=xuezhaju&theme=blue-green&langs_count=8&layout=compact)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xuezhaju&theme=blue-green&hide_border=true)
+
+<br>
+
+![xuezhaju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)
+
+<br>
 
 ---
 
-### 📈 Contribution Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)](https://github.com/ashutosh00710/github-readme-activity-graph)
+📧 liaozecheng123@163.com | 💬 QQ: 3883453752 | 🎮 Bilibili: [xuezhaju](https://space.bilibili.com/3493127857900357)
+
+✨ Learning never stops ✨
