@@ -14,30 +14,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<br>
-
-**Social**: [GitHub](https://github.com/xuezhaju) | [Bilibili](https://space.bilibili.com/3493127857900357) | [Email](mailto:liaozecheng123@163.com) | QQ: 3883453752
-
-<br>
-
-![GitHub Stats](https://sts.stalux.top/api?username=xuezhaju&theme=blue-green)
-
-<br>
-
-![Top Languages](https://sts.stalux.top/api/top-langs/?username=xuezhaju&theme=blue-green&langs_count=8&layout=compact)
-
-<br>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=xuezhaju&theme=blue-green&hide_border=true)
-
-<br>
-
-![xuezhaju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)
-
-<br>
-
 ## 👋 About Me
 
 - 🌱 I'm currently learning **C++ and Godot Engine**
@@ -87,7 +63,29 @@
 - [Godot Docs](https://docs.godotengine.org/) - Godot Documentation
 
 
+## 📊 GitHub Stats
 
+<br>
+
+**Social**: [GitHub](https://github.com/xuezhaju) | [Bilibili](https://space.bilibili.com/3493127857900357) | [Email](mailto:liaozecheng123@163.com) | QQ: 3883453752
+
+<br>
+
+![GitHub Stats](https://sts.stalux.top/api?username=xuezhaju&theme=blue-green)
+
+<br>
+
+![Top Languages](https://sts.stalux.top/api/top-langs/?username=xuezhaju&theme=blue-green&langs_count=8&layout=compact)
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=xuezhaju&theme=blue-green&hide_border=true)
+
+<br>
+
+![xuezhaju's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuezhaju&bg_color=FFFFFF&line=008000&height=375&title_color=000000&hide_border=true&color=000000)
+
+<br>
 
 ---
 
