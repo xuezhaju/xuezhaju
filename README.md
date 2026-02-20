@@ -10,6 +10,8 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/xuezhaju/xuezhaju/output/github-snake-dark.svg" width="100%" />
 </picture>
 
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World!;C%2B%2B+Learner;Godot+Enthusiast&font=Lato&size=22&color=008000&center=true&width=400)
+
 <br>
 
 ## 👋 About Me
@@ -70,8 +72,6 @@
 <br>
 
 ## 📊 GitHub Stats
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World!;C%2B%2B+Learner;Godot+Enthusiast&font=Lato&size=22&color=008000&center=true&width=400)
 
 <br>
 
