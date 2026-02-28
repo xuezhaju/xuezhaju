@@ -56,11 +56,6 @@
 
 <br>
 
-## 🔗 Useful Links
-
-- [C++ Reference](https://en.cppreference.com/) - Official C++ Documentation
-- [LearnCpp.com](https://www.learncpp.com/) - Free C++ Tutorials
-- [Godot Docs](https://docs.godotengine.org/) - Godot Documentation
 
 
 ## 📊 GitHub Stats
