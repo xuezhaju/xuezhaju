@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-- 🌱 I'm currently learning **C++ and Godot Engine**
+- 🌱 I'm currently learning **C++ , vue and Godot Engine**
 - 💻 My Bilibili: [xuezhaju](https://space.bilibili.com/3493127857900357)
 - 📫 How to reach me: [liaozecheng123@163.com](mailto:liaozecheng123@163.com)
 - 🔭 My goal: **Game Development with C++**
