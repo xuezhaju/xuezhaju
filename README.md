@@ -16,6 +16,15 @@
 
 ## 👋 About Me
 
+<div align="center">
+  <img src="image/all.png" alt="all" width="200" />
+  <img src="image/basketball.png" alt="basketball" width="200" />
+  <img src="image/coding.png" alt="coding" width="200" />
+  <img src="image/fadai.png" alt="fadai" width="200" />
+</div>
+
+<br>
+
 - 🌱 I'm currently learning **C++ , vue and Godot Engine**
 - 💻 My Bilibili: [xuezhaju](https://space.bilibili.com/3493127857900357)
 - 📫 How to reach me: [liaozecheng123@163.com](mailto:liaozecheng123@163.com)
@@ -55,8 +64,6 @@
 </details>
 
 <br>
-
-
 
 ## 📊 GitHub Stats
 
