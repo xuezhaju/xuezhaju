@@ -11,15 +11,6 @@
 </picture>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Learning+never+stops;Hello+World!;C%2B%2B+Learner;Godot+Enthusiast&font=Lato&size=22&color=008000&center=true&width=400)
-
-<br>
-
-## 🏞️ Banner
-
-<div align="center">
-  <img src="image/all.png" alt="banner" width="100%" />
-</div>
-
 <br>
 
 ## 👋 About Me
