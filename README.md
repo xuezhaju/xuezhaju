@@ -14,10 +14,17 @@
 
 <br>
 
+## 🏞️ Banner
+
+<div align="center">
+  <img src="image/all.png" alt="banner" width="100%" />
+</div>
+
+<br>
+
 ## 👋 About Me
 
 <div align="center">
-  <img src="image/all.png" alt="all" width="200" />
   <img src="image/basketball.png" alt="basketball" width="200" />
   <img src="image/coding.png" alt="coding" width="200" />
   <img src="image/fadai.png" alt="fadai" width="200" />
